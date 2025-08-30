@@ -1,7 +1,7 @@
 {
   "name": "simple-function-converter",
   "version": "1.0.0",
-  "description": "A utility tool that converts complex functions into simpler, equivalent forms, improving comprehension and implementation ease.",
+  "description": "A utility tool that converts complex JavaScript functions into simpler, equivalent forms, improving comprehension and ease of implementation.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
