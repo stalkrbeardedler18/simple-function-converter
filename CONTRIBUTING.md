@@ -15,4 +15,11 @@ Feel free to suggest new features or enhancements. Provide a clear description o
 4. Push your changes to your forked repository.
 5. Submit a pull request.
 
-Please ensure your code adheres to the coding standards of the project and includes appropriate tests.
+## Coding Standards
+Please ensure your code adheres to the coding standards of the project, including:
+- Proper naming conventions for variables and functions.
+- Clear and concise comments where necessary.
+- Consistent indentation and formatting throughout the code.
+- Inclusion of appropriate tests to verify the functionality of your changes.
+
+Ensure to detail any additional steps needed for code testing in your pull request.
