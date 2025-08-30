@@ -1,8 +1,9 @@
 const readline = require('readline');
 
 // Function to simplify a given input string by removing excess whitespace
+// Currently, it replaces multiple spaces with a single space and trims the resulting string.
+// This is a placeholder for more advanced function simplification logic in the future.
 function simplifyFunction(func) {
-    // This is a dummy simplifier. Replace this with a real logic to simplify functions.
     return func.replace(/\s+/g, ' ').trim();
 }
 
