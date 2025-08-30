@@ -23,3 +23,5 @@ Please ensure your code adheres to the coding standards of the project, includin
 - Inclusion of appropriate tests to verify the functionality of your changes.
 
 Ensure to detail any additional steps needed for code testing in your pull request.
+
+# Note: Adhering to these guidelines helps maintain the quality and uniformity of the project.
